@@ -116,7 +116,7 @@ class LoginPage(QMainWindow):
         self.regbtn.setStyleSheet("font-size: 24px; background-color: #0B1C76; color: white;")
         button_layout.addWidget(self.regbtn)
 
-        self.client = MongoClient("mongodb+srv://Morningstar:qsaw1234@hermes.5fuw4eg.mongodb.net/test")
+        self.client = MongoClient("") //ADD YOUR MONGODB URI HERE
         self.db = self.client["chat_app_db"]
         self.users = self.db["users"]
 
@@ -286,7 +286,7 @@ class RegisterPage(QMainWindow):
         # self.regbtn = QPushButton("Register", clicked=self._register_btn_clicked)
         # hbox3.addWidget(self.regbtn)
 
-        self.client = MongoClient("mongodb+srv://Morningstar:qsaw1234@hermes.5fuw4eg.mongodb.net/test")
+        self.client = MongoClient("") ADD YOUR MONGODB URI HERE
         self.db = self.client["chat_app_db"]
         self.users = self.db["users"]
 
