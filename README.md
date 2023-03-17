@@ -79,4 +79,4 @@ If you wish to contribute to Odin, please submit a pull request with your propos
 
 If you have any questions or concerns about Odin, please contact us at devanshumahapatra17@gmail.com. We appreciate your feedback and will do our best to respond as soon as possible.
 
-Thank you for choosing Odin!
+### Thank you for choosing Hermes!
