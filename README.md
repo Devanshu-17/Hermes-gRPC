@@ -67,7 +67,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Contributing:
 
-If you wish to contribute to Odin, please submit a pull request with your proposed changes. We welcome contributions from the community and will do our best to review and incorporate them into the project.
+If you wish to contribute to Hermes, please submit a pull request with your proposed changes. We welcome contributions from the community and will do our best to review and incorporate them into the project.
 
 ## Authors
 
@@ -77,6 +77,6 @@ If you wish to contribute to Odin, please submit a pull request with your propos
 
 ## Contact:
 
-If you have any questions or concerns about Odin, please contact us at devanshumahapatra17@gmail.com. We appreciate your feedback and will do our best to respond as soon as possible.
+If you have any questions or concerns about Hermes, please contact us at devanshumahapatra17@gmail.com. We appreciate your feedback and will do our best to respond as soon as possible.
 
 ### Thank you for choosing Hermes!
