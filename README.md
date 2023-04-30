@@ -25,7 +25,7 @@ To run this project on your machine, follow the steps below:
 ### Clone the repository using the following command:
 
 ```bash
-git clone https://github.com/devanshu107/Hermes.git
+git clone https://github.com/Devanshu-17/Hermes.git
 ```
 
 ### Install the required dependencies using the following command:
